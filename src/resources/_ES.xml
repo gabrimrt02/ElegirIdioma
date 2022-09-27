@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="descripcion">La presente aplicación tiene por efecto la recogida de datos personales, con el fin de darle un mejor servicio</entry>
+    <entry key="gracias">Gracias por sus respuestas.</entry>
+    <entry key="add_si">Si</entry>
+    <entry key="mail">Correo electrónico:</entry>
+    <entry key="p_add">¿Quiere añadir a otra persona?</entry>
+    <entry key="direccion">Dirección:</entry>
+    <entry key="titulo">Recogida de datos personales</entry>
+    <entry key="en">Inglés / English</entry>
+    <entry key="add_no">No</entry>
+    <entry key="nombre">¿Cuál es su nombre?:</entry>
+    <entry key="es">Español / Spanish</entry>
+    <entry key="p_correo">¿Tiene usted dirección de correo electrónico?</entry>
+    <entry key="elec_idioma">¿En qué idioma desea ser atendido? 
+What language do you prefer to be attended?</entry>
+    <entry key="profesion">¿En que trabaja?:</entry>
+    <entry key="telefono">Teléfono:</entry>
+    <entry key="no_datos">No sa han proporcionado datos personales.</entry>
+</properties>

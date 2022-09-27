@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="descripcion">The actual application goals are  to recollect your personal data, just to offer a better service.</entry>
+<entry key="gracias">Thank you by you answers.</entry>
+<entry key="add_si">Yes</entry>
+<entry key="mail">Your eMail:</entry>
+<entry key="p_add">Do you want to add another person?</entry>
+<entry key="direccion">Address:</entry>
+<entry key="titulo">Collection of personal data </entry>
+<entry key="en">English / Inglés</entry>
+<entry key="add_no">No</entry>
+<entry key="nombre">What's your name?:</entry>
+<entry key="es">Spanish / Español</entry>
+<entry key="p_correo">Do you have an email address?</entry>
+<entry key="elec_idioma">What language do you prefer to be attended? 
+¿En qué idioma desea ser atendido?</entry>
+<entry key="profesion">What is your profession?:</entry>
+<entry key="telefono">Phone number:</entry>
+<entry key="no_datos">No personal data was supplied.</entry>
+</properties>
